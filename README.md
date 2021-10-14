@@ -7,8 +7,8 @@ J'ai d'abord commencé avec du developpement de jeux vidéos avec Unity et C# av
 * 🙏Je recherche un contrat d'apprentissage en web ou mobile avant le 1er novembre 2021
 
 * 📚 J'apprends actuellement:
-    * En Javascript: expressJs et ReactJs
-    * En PHP: symfony 5
+    * En Javascript: Vuejs, expressJs et ReactJs
+    * En PHP: Symfony 5
 
 * ⏲📚 Plus tard, je compte apprendre python et react native
 * ⏲✍Projets d'applications:
